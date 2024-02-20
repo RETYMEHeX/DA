@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace C;
+﻿namespace C;
 
 public class Location()
 {
